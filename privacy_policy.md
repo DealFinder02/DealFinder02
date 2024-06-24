@@ -21,9 +21,6 @@ Les données collectées sont utilisées pour :
 
 Nous prenons des mesures de sécurité appropriées pour protéger les données des utilisateurs contre tout accès non autorisé, altération, divulgation ou destruction.
 
-### Contact
-
-Pour toute question concernant ces règles de confidentialité, veuillez nous contacter à [votre-email@example.com].
 
 ---
 
